@@ -1,2 +1,2 @@
-# Electromagnetic-Waves
- solvers for 2d Maxwells equations
+# Electromagnetic Waves
+ Solvers for Maxwells Equations
